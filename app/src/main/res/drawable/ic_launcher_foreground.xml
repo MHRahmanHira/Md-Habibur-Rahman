@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Camera Body Frame (Safe zone within 66dp: 26 to 82) -->
+    <path
+        android:pathData="M34,34 L42,34 L45,30 L63,30 L66,34 L74,34 C77.3,34 80,36.7 80,40 L80,72 C80,75.3 77.3,78 74,78 L34,78 C30.7,78 28,75.3 28,40 C28,36.7 30.7,34 34,34 Z"
+        android:strokeWidth="3.2"
+        android:strokeColor="#38BDF8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#1538BDF8" />
+
+    <!-- Central Lens Ring -->
+    <path
+        android:pathData="M54,42 A14,14 0 1,0 54,70 A14,14 0 1,0 54,42"
+        android:strokeWidth="3"
+        android:strokeColor="#818CF8"
+        android:fillColor="#226366F1" />
+
+    <!-- AI Sparkle / Magic Star at Center of Lens -->
+    <path
+        android:pathData="M54,48 Q54,56 62,56 Q54,56 54,64 Q54,56 46,56 Q54,56 54,48 Z"
+        android:fillColor="#F43F5E" />
+
+    <!-- Small Secondary AI Sparkle -->
+    <path
+        android:pathData="M70,38 Q70,42 74,42 Q70,42 70,46 Q70,42 66,42 Q70,42 70,38 Z"
+        android:fillColor="#FACC15" />
+</vector>

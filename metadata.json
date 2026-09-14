@@ -1,0 +1,6 @@
+{
+  "name": "PhotoForge AI",
+  "description": "Production-ready AI photo editing studio with portrait enhancement, restoration, background removal, and smart image filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
